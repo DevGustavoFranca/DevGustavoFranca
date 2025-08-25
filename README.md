@@ -4,11 +4,11 @@
 
 Me chamo Gustavo Vieira Santos França, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em administração. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninove. Sempre pesquisei e estudei sobre algumas tecnologias e linguagens, mas somente neste ano de 2025 que dei o passo de começar a faculdade e me entregar ao mundo dos codigos.
 ##
-<p
-href="[https://www.instagram.com/_tavin_sant/](https://www.instagram.com/_tavin_sant)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+<div>
+<a href="https://instagram.com/tavin_sant_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:gustavofranca2802@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gustavo-fran%C3%A7a-a0b19430a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
+</div>
 
 ### 🤖 Linguagens e Tecnologias
 
